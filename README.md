@@ -1,8 +1,7 @@
 # Barbie World - Character Registry 🎀
 
 > [!IMPORTANT]  
-> Welcome to **Barbie World**, a web application that allows you to register, edit, and delete characters in a vibrant, pink-themed universe.  
-> The project is built using PHP for server-side logic and HTML5/CSS3 for a modern and responsive interface.  
+> Welcome to **Barbie World**, a web application that allows you to register, edit, and delete characters in a vibrant, pink-themed universe. The project is built using PHP for server-side logic and HTML5/CSS3 for a modern and responsive interface.  
 >  
 > Create your dream character and manage their journey in Barbie World!
 
